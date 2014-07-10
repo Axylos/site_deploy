@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Hire a Web Dev!</title>
+  <link rel="stylesheet" href="main.css">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+  <script src="http://code.jquery.com/jquery-latest.min.js"
+          type="text/javascript"></script>
+  <script src="javascripts.js"></script>
+</head>
+<body>
+  
+  <nav class="group">
+    <ul class="group">
+      <li><a href="#" id="home">Home</a></li>
+      <li><a href="#" id="glossol-genius">GlossolGenius</a></li>
+      <li><a href="#" id="chat-sock">ChatSock</a></li>
+      <li><a href="#" id="asteroids">Asteroids</a></li>
+    </ul>
+  </nav>
+  
+  <main>
+    <img id="my-pic" src="drake-talley.jpg">
+    
+      <article class="home-page">
+        <section class="bio">
+          <div class="title"><h1>Drake Talley</h1></div>
+            <p>Welcome to my personal site!</p>  
+            <p>Web Developer for Hire in the greater NY metro area.</p>
+        </section>
+        
+        <div class="variable-content">
+        
+        <content class="contact group">
+          <ul class="group">
+            <li>
+              <a href="mailto:robertdraketalley@gmail.com">Email</a>
+            </li>
+            <li>
+              <a href="http://github.com/Axylos">Github</a>
+            </li>
+            <li>
+              <a href="http://axylos.tumblr.com/">Tumblr</a>
+            </li>
+          </ul>
+        </content>
+      </article>
+    
+      <article class="projects">
+        <p><strong>GlossolGenius:</strong> A Rap Genius Clone for Academics</p>
+        <p><a href="glossolgenius.com">Live</a></p>
+        <p><a href="http://github.com/Axylos/glossol_genius">Source</a>
+        <p><strong>ChatSock</strong></p> Chat App in Node.js
+        <p><a href="http://chat-sock.herokuapp.com">Live</a></p>
+        <p><a href="http://github.com/Axylos/chatsock">Source</a></p>
+        <p><strong>Rails Undone</strong> An exercise in rebuilding Rails</p>
+      </article>
+    
+      <article class="glossol demo">
+        
+        <h1>Glossol Genius: A Rap Genius Clone for Academics</h1>
+        
+        <h2>
+          Footnotes and external links are hard.  This is easier.
+        </h2>  
+          <p>
+            GlossolGenius was inspired by the RapGenius UI for annotating documents but extends this basic functionality by supporting multiple references and annotations for each document, much like academic footnotes or links on a blog to content on other sites.  GG is implemented with a Rails JSON API serving up content to a Backbone.js front-end.
+          </p>
+          <p class="links"><a href="http://www.glossolgenius.com">Live</a>
+          <a href="http://github.com/Axylos/glossol_genius">Source</a></p>
+          <img id="glossol-prev" src="glossolpreview.png">
+      </article>
+      
+      <article class="chat-sock demo">
+        <h1>Chat Sock: MultiRoom IRC-Lite</h1>
+        <p>Chat Sock is a basic chat application built on a hand-rolled Node server using the Socket.io library.  Simple IRC commands like /join and /nick are included to change a user nickname as welll as join/create different rooms. Message and admin updates are asynchronously pushed to the browser client and display in a JQuery UI.<p>
+        <p class="links"><a href="http://chat-sock.herokuapp.com">Live</a>  
+          <a href="http://github.com/Axylos/chatsock">Source</a></p>
+          <img id="sock-prev" src="chatcode.png">
+      </article>
+      
+      <article class="asteroid demo">
+        <h1>Asteroids:  A Classic!</h1>
+        <p>A clone of the traditional arcade game.  Shoot bullets at big round asteroids that are heading at you.  Implements Canvas, JQuery, and a bunch of javascript on the back end to render game movement.  A good time all around.</p>
+        <p class="links"><a href="asteroids/index.html">Live</a>
+        <a href="https://github.com/Axylos/asteroids">Source</a></p>
+        <img id="aster" src="asteroid.png">
+        
+      </article>
+    
+    </div>
+ </main>
+ 
+</body>
+</html>
