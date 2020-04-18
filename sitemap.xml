@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.example.com/</loc>
+    <loc>https://blog.draketalley.com/</loc>
     <lastmod>2020-04-18T17:42:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/posts/</loc>
+    <loc>https://blog.draketalley.com/posts/</loc>
     <lastmod>2020-04-18T17:42:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/posts/test/</loc>
+    <loc>https://blog.draketalley.com/posts/test/</loc>
     <lastmod>2020-04-18T17:42:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.example.com/categories/</loc>
+    <loc>https://blog.draketalley.com/categories/</loc>
   </url>
   
   <url>
-    <loc>https://www.example.com/series/</loc>
+    <loc>https://blog.draketalley.com/series/</loc>
   </url>
   
   <url>
-    <loc>https://www.example.com/tags/</loc>
+    <loc>https://blog.draketalley.com/tags/</loc>
   </url>
   
 </urlset>
