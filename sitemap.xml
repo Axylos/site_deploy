@@ -3,26 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.draketalley.com/about/</loc>
+    <lastmod>2020-04-21T19:37:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.draketalley.com/post/</loc>
+    <lastmod>2020-04-21T19:49:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.draketalley.com/post/test/</loc>
+    <lastmod>2020-04-21T19:49:03-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.draketalley.com/</loc>
-    <lastmod>2020-04-18T17:42:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.draketalley.com/posts/</loc>
-    <lastmod>2020-04-18T17:42:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.draketalley.com/posts/test/</loc>
-    <lastmod>2020-04-18T17:42:30-04:00</lastmod>
+    <lastmod>2020-04-21T19:37:12-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.draketalley.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://blog.draketalley.com/series/</loc>
   </url>
   
   <url>

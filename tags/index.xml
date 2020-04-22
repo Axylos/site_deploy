@@ -1,14 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Drake Blog</title>
-    <link>https://blog.draketalley.com/tags/</link>
-    <description>Recent content in Tags on Drake Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://blog.draketalley.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
+ <channel>
+   <title>Tags on drake Talley</title>
+   <link>https://blog.draketalley.com/tags/</link>
+   <description>Recent content in Tags on drake Talley</description>
+   <generator>Hugo -- gohugo.io</generator>
+   
+       <atom:link href="https://blog.draketalley.com/tags/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+     <item>
+       <title>Test</title>
+       <link>https://blog.draketalley.com/post/test/</link>
+       <pubDate>Tue, 21 Apr 2020 19:49:03 -0400</pubDate>
+       
+       <guid>https://blog.draketalley.com/post/test/</guid>
+       <description>&lt;h2 id=&#34;a-test&#34;&gt;A Test&lt;/h2&gt;
+&lt;p&gt;go do the thing before someone else does or else it&amp;rsquo;ll be real real real bad&lt;/p&gt;
+&lt;p&gt;and you&amp;rsquo;ll feel silly&lt;/p&gt;
+</description>
+     </item>
+   
+ </channel>
 </rss>
