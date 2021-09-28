@@ -22,10 +22,12 @@ I&amp;rsquo;m also into playing guitar and chasing my dog.</description>
       <pubDate>Mon, 27 Sep 2021 19:27:48 -0700</pubDate>
       
       <guid>https://blog.draketalley.com/projects/</guid>
-      <description>Eonomics Fight (source)    (In Progress) &amp;ldquo;competitive voting&amp;rdquo; app
- Get PowerUps For Casting Votes Includes changing rate-limits includes HTTP and gRPC api&amp;rsquo;s  Bitter Domain    A Ruby gem for generating domains 1 bit away from a source domain and checking the availability of the generated domains.
- Presented at the nyc-meetup 1-8-2020  VFS Service    Virtual File System HTTP Client
- built with the fuse Rust crate Experiment with interacting with HTTP resources via UNIX filesystem as an interface Presented as a lightning talk at the rust-nyc meetup 7-23-2019  Shit Going Down (source)    Social app for notifying emergency contacts and includes bail-fund resources</description>
+      <description>[Eonomics Fight]    economicsfight.com (source)
+(In Progress) &amp;ldquo;competitive voting&amp;rdquo; app
+ Get PowerUps For Casting Votes Includes changing rate-limits includes HTTP and gRPC api&amp;rsquo;s  [Bitter Domain]    (source)
+A Ruby gem for generating domains 1 bit away from a source domain and checking the availability of the generated domains.
+ Presented at the nyc-meetup 1-8-2020  [VFS Service]    [source]
+Virtual File System HTTP Client</description>
     </item>
     
   </channel>
