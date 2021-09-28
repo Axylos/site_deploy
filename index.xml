@@ -1,26 +1,32 @@
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
- <channel>
-   <title>drake Talley</title>
-   <link>https://blog.draketalley.com/</link>
-   <description>Recent content on drake Talley</description>
-   <generator>Hugo -- gohugo.io</generator>
-   <lastBuildDate>Tue, 21 Apr 2020 19:37:12 -0400</lastBuildDate>
-   
-       <atom:link href="https://blog.draketalley.com/index.xml" rel="self" type="application/rss+xml" />
-   
-   
-     <item>
-       <title>Test</title>
-       <link>https://blog.draketalley.com/post/test/</link>
-       <pubDate>Tue, 21 Apr 2020 19:49:03 -0400</pubDate>
-       
-       <guid>https://blog.draketalley.com/post/test/</guid>
-       <description>&lt;h2 id=&#34;a-test&#34;&gt;A Test&lt;/h2&gt;
-&lt;p&gt;go do the thing before someone else does or else it&amp;rsquo;ll be real real real bad&lt;/p&gt;
-&lt;p&gt;and you&amp;rsquo;ll feel silly&lt;/p&gt;
-</description>
-     </item>
-   
- </channel>
+  <channel>
+    <title>Home</title>
+    <link>https://blog.draketalley.com/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://blog.draketalley.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://blog.draketalley.com/about/</link>
+      <pubDate>Mon, 27 Sep 2021 20:09:38 -0700</pubDate>
+      
+      <guid>https://blog.draketalley.com/about/</guid>
+      <description>I studied Philosophy for a time, then I left to attend a web development bootcamp. Now I write software. Along the way I taught at a different bootcamp for two years.
+I&amp;rsquo;m also into playing guitar and chasing my dog.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://blog.draketalley.com/projects/</link>
+      <pubDate>Mon, 27 Sep 2021 19:27:48 -0700</pubDate>
+      
+      <guid>https://blog.draketalley.com/projects/</guid>
+      <description>Eonomics Fight (source)    (In Progress) &amp;ldquo;competitive voting&amp;rdquo; app
+ Get PowerUps For Casting Votes Includes changing rate-limits includes HTTP and gRPC api&amp;rsquo;s  Bitter Domain    A Ruby gem for generating domains 1 bit away from a source domain and checking the availability of the generated domains.
+ Presented at the nyc-meetup 1-8-2020  VFS Service    Virtual File System HTTP Client
+ built with the fuse Rust crate Experiment with interacting with HTTP resources via UNIX filesystem as an interface Presented as a lightning talk at the rust-nyc meetup 7-23-2019  Shit Going Down (source)    Social app for notifying emergency contacts and includes bail-fund resources</description>
+    </item>
+    
+  </channel>
 </rss>
